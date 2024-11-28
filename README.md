@@ -1,3 +1,3 @@
 # Dsec
-This is first line o project
+This is first line of project
 Faisal, Uzair, Iniyath, Ghouse, Alfaz
